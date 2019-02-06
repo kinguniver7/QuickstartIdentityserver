@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "src\Client\Client
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcClient", "src\MvcClient\MvcClient.csproj", "{BF4DBF85-2482-4D45-917D-1C12466016E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptClient", "src\JavaScriptClient\JavaScriptClient.csproj", "{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,18 @@ Global
 		{BF4DBF85-2482-4D45-917D-1C12466016E1}.Release|x64.Build.0 = Release|Any CPU
 		{BF4DBF85-2482-4D45-917D-1C12466016E1}.Release|x86.ActiveCfg = Release|Any CPU
 		{BF4DBF85-2482-4D45-917D-1C12466016E1}.Release|x86.Build.0 = Release|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Debug|x64.Build.0 = Debug|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Debug|x86.Build.0 = Debug|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Release|x64.ActiveCfg = Release|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Release|x64.Build.0 = Release|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Release|x86.ActiveCfg = Release|Any CPU
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +94,7 @@ Global
 		{4AE54D54-2727-4B8E-B1BD-74FC8A1A2CAF} = {31C339ED-BBD6-4870-B4F3-2D286D138B72}
 		{A921EC7E-356A-48A1-BCB9-7BFC2912F5B8} = {31C339ED-BBD6-4870-B4F3-2D286D138B72}
 		{BF4DBF85-2482-4D45-917D-1C12466016E1} = {31C339ED-BBD6-4870-B4F3-2D286D138B72}
+		{C3CF42DC-4ACB-49FF-903D-A6262A24CA8A} = {31C339ED-BBD6-4870-B4F3-2D286D138B72}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A34B1945-FE46-4BD7-9704-D7FE88C4E98F}
