@@ -34,8 +34,8 @@ namespace IdentityServer
                 {
                     options.SignInScheme = IdentityServerConstants.ExternalCookieAuthenticationScheme;
 
-                    options.ClientId = "";
-                    options.ClientSecret = "";
+                    options.ClientId = "test";
+                    options.ClientSecret = "test";
                 });
 
             if (Environment.IsDevelopment())
